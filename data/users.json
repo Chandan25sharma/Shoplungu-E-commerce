@@ -1,0 +1,32 @@
+[
+  {
+    "id": "u1",
+    "name": "Chandan Kumar",
+    "email": "chandan@shoplungu.com",
+    "password": "hashed-password-123",
+    "phone": "+1234567890",
+    "address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "USA"
+    },
+    "orders": []
+  },
+  {
+    "id": "u2",
+    "name": "Sarah Johnson",
+    "email": "sarah@example.com",
+    "password": "hashed-password-456",
+    "phone": "+1987654321",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90210",
+      "country": "USA"
+    },
+    "orders": []
+  }
+]

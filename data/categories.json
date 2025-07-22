@@ -1,0 +1,12 @@
+[
+  { "slug": "men-tshirts", "name": "Men's T-Shirts", "parent": "men" },
+  { "slug": "men-jeans", "name": "Men's Jeans", "parent": "men" },
+  { "slug": "men-shorts", "name": "Men's Shorts", "parent": "men" },
+  { "slug": "men-shoes", "name": "Men's Shoes", "parent": "men" },
+  { "slug": "women-dresses", "name": "Women's Dresses", "parent": "women" },
+  { "slug": "women-blazers", "name": "Women's Blazers", "parent": "women" },
+  { "slug": "women-coats", "name": "Women's Coats", "parent": "women" },
+  { "slug": "women-shoes", "name": "Women's Shoes", "parent": "women" },
+  { "slug": "kids-shirts", "name": "Kids' Shirts", "parent": "kids" },
+  { "slug": "kids-accessories", "name": "Kids' Accessories", "parent": "kids" }
+]
