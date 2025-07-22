@@ -182,15 +182,7 @@ const LoginPage = () => {
             </button>
           </div>
 
-          {/* Demo Account Info */}
-          <div className="mt-6 p-4 bg-blue-50 border border-blue-200 rounded-lg">
-            <h3 className="text-sm font-medium text-blue-900 mb-2">Demo Account</h3>
-            <p className="text-xs text-blue-700 mb-2">Use these credentials to test the login:</p>
-            <div className="text-xs text-blue-700 space-y-1">
-              <div>Email: <code className="bg-blue-100 px-1 rounded">admin@shoplungu.com</code></div>
-              <div>Password: <code className="bg-blue-100 px-1 rounded">admin123</code></div>
-            </div>
-          </div>
+          
 
           <div className="text-center">
             <p className="text-sm text-gray-600">

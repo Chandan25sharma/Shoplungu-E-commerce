@@ -122,10 +122,10 @@
     "category": "women-coats",
     "sizes": ["XS", "S", "M", "L", "XL"],
     "colors": ["Black", "Navy", "Brown", "Pink"],
-    "image": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=400&h=500&fit=crop",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=400&h=500&fit=crop",
     "images": [
-      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=400&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=500&fit=crop"
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=400&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=400&h=500&fit=crop"
     ],
     "description": "Warm winter coat with excellent insulation. Perfect for cold weather with stylish design.",
     "inStock": true,
@@ -141,10 +141,10 @@
     "category": "men-shorts",
     "sizes": ["S", "M", "L", "XL", "XXL"],
     "colors": ["Black", "Navy", "Gray", "Red"],
-    "image": "https://images.unsplash.com/photo-1506629905607-bb5ed80e0e70?w=400&h=500&fit=crop",
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=400&h=500&fit=crop",
     "images": [
-      "https://images.unsplash.com/photo-1506629905607-bb5ed80e0e70?w=400&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=400&h=500&fit=crop"
+      "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=400&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=400&h=500&fit=crop"
     ],
     "description": "High-performance athletic shorts with moisture-wicking technology. Perfect for workouts and sports.",
     "inStock": true,
